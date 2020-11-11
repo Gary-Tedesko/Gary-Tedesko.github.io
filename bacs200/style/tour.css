@@ -1,16 +1,16 @@
 h1.prayer {
     text-align: center;
-    color: white
+    color: blue
 }
 
 p.jesus {
-    color: black;
+    color: white;
     border: 1px solid white;
     margin-top: 10px;
     margin-bottom: 200px;
     margin-right: 400px;
     margin-left: 400px;
-    background-color: lightcyan;
+    background-color: blue;
 }
 
 div.div1 {
