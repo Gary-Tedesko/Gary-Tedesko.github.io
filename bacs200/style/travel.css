@@ -1,9 +1,9 @@
 body {
-    background: black;
+    background: Blue;
 }
 
 h1.c {
-    color: indianred;
+    color: White;
     margin: auto;
     height: 100px;
     width: 300px;
@@ -14,13 +14,13 @@ div.p1 {
     margin: auto;
     height: 50px;
     width: 700px;
-    color: indianred;
+    color: White;
     text-align: center;
 }
 
 h4.h4 {
     text-align: center;
-    color: indianred
+    color: White
 }
 
     {
